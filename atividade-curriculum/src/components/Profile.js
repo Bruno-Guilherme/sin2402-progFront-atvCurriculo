@@ -12,9 +12,9 @@ function Profile() {
       <section>
         <h2 className="text-3xl font-bold">Contato</h2>
         <ul className="mt-4">
-          <li>Telefone: (81) 9.9999-9999</li>
-          <li>Email: meuemail@email.com</li>
-          <li>GitHub: github.com/meuperfil</li>
+          <li>Telefone: (81) 9.8776-0887</li>
+          <li>Email: dasilvaguilhermebruno@gmail.com</li>
+          <li>GitHub: https://github.com/Bruno-Guilherme</li>
         </ul>
       </section>
     </div>

@@ -1,1 +1,1 @@
-# sin2402-progFront-atvCurriculo
+# Currículo para a atividade da cadeira de Programação Front-End
